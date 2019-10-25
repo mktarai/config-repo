@@ -1,0 +1,5 @@
+spring.datasource.url: "jdbc:mysql://localhost:3306/thoughtmechanix"
+spring.datasource.username: "root"
+spring.datasource.password: "pl5IC=U-E#$mu#6Cr4xo"
+spring.jpa.show-sql: "true"
+spring.jpa.properties.hibernate.dialect: "org.hibernate.dialect.MySQLDialect"
